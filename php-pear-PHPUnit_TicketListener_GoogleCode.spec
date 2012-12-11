@@ -71,3 +71,17 @@ fi
 %{_datadir}/pear/PHPUnit/Extensions/TicketListener/GoogleCode.php
 %{_datadir}/pear/packages/PHPUnit_TicketListener_GoogleCode.xml
 
+
+
+%changelog
+* Fri Dec 16 2011 Oden Eriksson <oeriksson@mandriva.com> 1.0.0-2mdv2012.0
++ Revision: 742222
+- fix major breakage by careless packager
+
+* Wed Nov 16 2011 Oden Eriksson <oeriksson@mandriva.com> 1.0.0-1
++ Revision: 730901
+- import php-pear-PHPUnit_TicketListener_GoogleCode
+
+
+* Wed Nov 16 2011 Oden Eriksson <oeriksson@mandriva.com> 1.0.0-1mdv2010.2
+- initial Mandriva package
